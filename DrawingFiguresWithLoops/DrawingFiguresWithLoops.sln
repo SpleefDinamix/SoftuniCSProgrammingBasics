@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleTenByTen", "RectangleTenByTen\RectangleTenByTen.csproj", "{EC672A6D-C270-4EA0-B36C-665A5D847254}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RectangleTenByTen", "RectangleTenByTen\01.RectangleTenByTen.csproj", "{EC672A6D-C270-4EA0-B36C-665A5D847254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RectanglesOFNxNStars", "02.RectanglesOFNxNStars\02.RectanglesOFNxNStars.csproj", "{7CC636E4-4152-4898-9517-587503AA86A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SquareOFStars", "03.SquareOFStars\03.SquareOFStars.csproj", "{2A1232BF-06CD-48A1-9A09-7AD1009F4376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TriangleOfDollars", "04.TriangleOfDollars\04.TriangleOfDollars.csproj", "{F54FCBD7-ED37-469E-9A01-E7BBDDA9AB5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{EC672A6D-C270-4EA0-B36C-665A5D847254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC672A6D-C270-4EA0-B36C-665A5D847254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC672A6D-C270-4EA0-B36C-665A5D847254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC636E4-4152-4898-9517-587503AA86A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC636E4-4152-4898-9517-587503AA86A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC636E4-4152-4898-9517-587503AA86A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC636E4-4152-4898-9517-587503AA86A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1232BF-06CD-48A1-9A09-7AD1009F4376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1232BF-06CD-48A1-9A09-7AD1009F4376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1232BF-06CD-48A1-9A09-7AD1009F4376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1232BF-06CD-48A1-9A09-7AD1009F4376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54FCBD7-ED37-469E-9A01-E7BBDDA9AB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54FCBD7-ED37-469E-9A01-E7BBDDA9AB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54FCBD7-ED37-469E-9A01-E7BBDDA9AB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54FCBD7-ED37-469E-9A01-E7BBDDA9AB5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
