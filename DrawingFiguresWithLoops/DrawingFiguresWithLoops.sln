@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Sunglasses", "08.Sunglas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.House", "09.House\09.House.csproj", "{4C06441E-BDFF-4A78-96AF-0EAB731BD29B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Diamond", "10.Diamond\10.Diamond.csproj", "{22788718-397E-4984-8689-384F059E48F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4C06441E-BDFF-4A78-96AF-0EAB731BD29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C06441E-BDFF-4A78-96AF-0EAB731BD29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C06441E-BDFF-4A78-96AF-0EAB731BD29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22788718-397E-4984-8689-384F059E48F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22788718-397E-4984-8689-384F059E48F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22788718-397E-4984-8689-384F059E48F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22788718-397E-4984-8689-384F059E48F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

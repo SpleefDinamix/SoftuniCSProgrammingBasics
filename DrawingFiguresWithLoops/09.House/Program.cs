@@ -8,7 +8,7 @@ namespace _09.House
         {
             int n = int.Parse(Console.ReadLine());
             int roofSize = (n + 1) / 2;
-            int wallSize = n / 2 - 1;
+            int wallSize = n / 2;
 
             int stars = n % 2 == 0 ? 2 : 1 ;
 
@@ -19,6 +19,11 @@ namespace _09.House
                 stars += 2;
             }
 
+            for (int j = 0; j < wallSize; j++)
+            {
+                var fill = new String('*', n - 2);
+                Console.WriteLine('|' + fill + '|');
+            }
         }
     }
 }
