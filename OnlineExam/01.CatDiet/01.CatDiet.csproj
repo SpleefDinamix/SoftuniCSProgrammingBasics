@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CBE9B065-4DDF-47E7-A536-7A894AE816E5}</ProjectGuid>
+    <ProjectGuid>{8A2A14B0-B06B-47FB-AD18-0B53E3D2A5BF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_01.Cat_Diet</RootNamespace>
     <AssemblyName>01.Cat Diet</AssemblyName>
